@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\utils\\validadorcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:utils\\validadorcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\services\\cadastroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:services\\cadastroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\models\\cidadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:models\\cidadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|c:\\cientec\\desafio_tecnico\\cadastrocidadao\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\ui\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:ui\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CadastroCidadao||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\ui\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:ui\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|C:\\cientec\\desafio_tecnico\\CadastroCidadao\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{08B1385E-1FF8-4214-B490-5E12BEA181A0}|CadastroCidadao.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-16T13:21:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.resx",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.resx",
+              "RelativeDocumentMoniker": "UI\\FormMain.resx",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.resx",
+              "RelativeToolTip": "UI\\FormMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-16T03:55:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-16T03:49:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastroCidadao",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\CadastroCidadao.csproj",
+              "RelativeDocumentMoniker": "CadastroCidadao.csproj",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\CadastroCidadao.csproj",
+              "RelativeToolTip": "CadastroCidadao.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-16T03:49:26.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.cs",
+              "RelativeDocumentMoniker": "UI\\FormMain.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.cs",
+              "RelativeToolTip": "UI\\FormMain.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:30:01.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidadorCPF.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Utils\\ValidadorCPF.cs",
+              "RelativeDocumentMoniker": "Utils\\ValidadorCPF.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Utils\\ValidadorCPF.cs",
+              "RelativeToolTip": "Utils\\ValidadorCPF.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:16:04.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroService.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Services\\CadastroService.cs",
+              "RelativeDocumentMoniker": "Services\\CadastroService.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Services\\CadastroService.cs",
+              "RelativeToolTip": "Services\\CadastroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:15:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cidadao.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Models\\Cidadao.cs",
+              "RelativeDocumentMoniker": "Models\\Cidadao.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Models\\Cidadao.cs",
+              "RelativeToolTip": "Models\\Cidadao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:13:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormMain.Designer.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.Designer.cs",
+              "RelativeToolTip": "UI\\FormMain.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:07:59.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:07:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:07:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.cs",
+              "RelativeDocumentMoniker": "UI\\FormMain.cs",
+              "ToolTip": "C:\\cientec\\desafio_tecnico\\CadastroCidadao\\UI\\FormMain.cs [Design]",
+              "RelativeToolTip": "UI\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:07:13.453Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

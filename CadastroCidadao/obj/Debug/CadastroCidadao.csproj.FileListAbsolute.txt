@@ -1,0 +1,11 @@
+C:\cientec\desafio_tecnico\CadastroCidadao\bin\Debug\CadastroCidadao.exe.config
+C:\cientec\desafio_tecnico\CadastroCidadao\bin\Debug\CadastroCidadao.exe
+C:\cientec\desafio_tecnico\CadastroCidadao\bin\Debug\CadastroCidadao.pdb
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.csproj.AssemblyReference.cache
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.Properties.Resources.resources
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.UI.FormMain.resources
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.csproj.GenerateResource.cache
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.csproj.CoreCompileInputs.cache
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.exe
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.pdb
+C:\cientec\desafio_tecnico\CadastroCidadao\obj\Debug\CadastroCidadao.exe.config
